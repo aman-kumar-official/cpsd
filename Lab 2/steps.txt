@@ -1,0 +1,9 @@
+1. Install chromium browser
+2. coap://localhost:5683/filename
+3. $ sudo apt update
+4. $ sudo apt install nodejs npm
+5. $ npm install coap
+6. node caop.js
+7. java --module-path "D:\Downloads\javafx-sdk-17.0.2\lib" --add-modules javafx.controls,javafx.fxml -jar "D:\Downloads\cf-browser-3.6.0.jar"
+8. coap detail -> application/json
+9. url -> GET
